@@ -49,12 +49,12 @@ title: Team
 
 <div class="tile" markdown="1">
 
-  ![Matthias's photo](https://dreamy.run/images/matthias.jpg)
+  ![Student1's photo](https://dreamy.run/images/student1.jpg)
 
-  <h2 class="post-title">Matthias Függer</h2>
+  <h2 class="post-title">FirstName1 LastName1</h2>
 
-  Senior Researcher @ CNRS  
-  [Personal website](http://www.lsv.fr/~mfuegger/)
+  Student1 @ U.Paris-Saclay  
+  [Personal page](./student1/)
 
 </div><!-- /.tile -->
 
@@ -66,12 +66,12 @@ title: Team
 
 <div class="tile" markdown="1">
 
-  ![Matthias's photo](https://dreamy.run/images/matthias.jpg)
+  ![ExStudent1's photo](https://dreamy.run/images/exstudent1.jpg)
 
-  <h2 class="post-title">Matthias Függer</h2>
+  <h2 class="post-title">FirstName1 LastName1</h2>
 
-  Senior Researcher @ CNRS  
-  [Personal website](http://www.lsv.fr/~mfuegger/)
+  ExStudent1 now @ U.Paris-Saclay  
+  [LinkedIn](https://www.linkedin.com/in/exstudent1/)
 
 </div><!-- /.tile -->
 
