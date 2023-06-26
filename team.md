@@ -42,3 +42,38 @@ title: Team
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
+
+### Current Members
+
+<div class="tiles">
+
+<div class="tile" markdown="1">
+
+  ![Matthias's photo](https://dreamy.run/images/matthias.jpg)
+
+  <h2 class="post-title">Matthias Függer</h2>
+
+  Senior Researcher @ CNRS  
+  [Personal website](http://www.lsv.fr/~mfuegger/)
+
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+
+### Former Members
+
+<div class="tiles">
+
+<div class="tile" markdown="1">
+
+  ![Matthias's photo](https://dreamy.run/images/matthias.jpg)
+
+  <h2 class="post-title">Matthias Függer</h2>
+
+  Senior Researcher @ CNRS  
+  [Personal website](http://www.lsv.fr/~mfuegger/)
+
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+
