@@ -41,6 +41,21 @@ title: Team
 
 </div><!-- /.tile -->
 
+### 2Current Members
+
+
+
+<div class="tile" markdown="1">
+
+  ![2Student1's photo](https://dreamy.run/images/2student1.jpg)
+
+  <h2 class="post-title">2FirstName1 2LastName1</h2>
+
+  2Student1 @ U.Paris-Saclay  
+  [Personal page](./2student1/)
+
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
 
 ### Current Members
