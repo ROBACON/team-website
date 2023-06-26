@@ -6,17 +6,39 @@ title: Team
 
 ### Principal Investigators
 
-#### Matthias Függer
+<div class="tiles">
 
-Senior Researcher @ CNRS\
-[Personal website](http://www.lsv.fr/~mfuegger/)
+<div class="tile" markdown="1">
 
-#### Manish Kushwaha
+  ![Matthias's photo](https://dreamy.run/images/matthias.jpg)
 
-Senior Researcher @ INRAe\
-[Personal website](https://manishkushwaha.net/)
+  <h2 class="post-title">Matthias Függer</h2>
 
-#### Thomas Nowak 
+  Senior Researcher @ CNRS  
+  [Personal website](http://www.lsv.fr/~mfuegger/)
 
-Professor @ ENS Paris-Saclay & Institut Universitaire de France\
-[Personal website](https://www.thomasnowak.net/)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+
+  ![Manish's photo](https://dreamy.run/images/manish.jpg)
+
+  <h2 class="post-title">Manish Kushwaha</h2>
+
+  Senior Researcher @ INRAe  
+  [Personal website](https://manishkushwaha.net/)
+
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+
+  ![Thomas's photo](https://dreamy.run/images/thomas.jpg)
+
+  <h2 class="post-title">Thomas Nowak</h2>
+
+  Professor @ ENS Paris-Saclay  
+  [Personal website](https://www.thomasnowak.net/)
+
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->

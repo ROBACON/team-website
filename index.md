@@ -2,6 +2,8 @@
 layout: archive
 permalink: /
 title: "Welcome"
+image:
+  feature: skinny-bones-demo.gif
 ---
 
 The Cellular Computing group is an interdisciplinary research group focusing
