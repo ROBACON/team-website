@@ -4,7 +4,7 @@ permalink: /team/
 title: Team
 ---
 
-### Principal Investigators
+<h3 style="clear: left">Principal Investigators</h3>
 
 <div class="tiles">
 
@@ -44,7 +44,7 @@ title: Team
 
 </div><!-- /.tiles -->
 
-### Current Members
+<h3 style="clear: left">Current Members</h3>
 
 <div class="tiles">
 
@@ -61,7 +61,7 @@ title: Team
 
 </div><!-- /.tiles -->
 
-### Former Members
+<h3 style="clear: left">Former Members</h3>
 
 <div class="tiles">
 
