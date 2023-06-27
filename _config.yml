@@ -67,8 +67,8 @@ exclude:
 scholar:
   #style: elife
   source: ./_bibliography
-  bibliography: references.bib
-  #sort_by: year
+  #bibliography: references.bib
+  sort_by: year
   #order: ascending
   
   #bibliography_list_tag: 'div'
