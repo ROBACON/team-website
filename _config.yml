@@ -65,5 +65,5 @@ exclude:
   - tmp
 
 scholar:
-  style: apa
+  style: elife
   
