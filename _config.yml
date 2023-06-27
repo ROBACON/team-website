@@ -65,11 +65,5 @@ exclude:
   - tmp
 
 scholar:
-  style: elife
-  #source: ./_bibliography
-  #bibliography: references.bib
-  #sort_by: year
-  #order: ascending
+  style: apa
   
-  #bibliography_list_tag: 'div'
-  #bibliography_item_tag: 'p'
