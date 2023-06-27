@@ -65,11 +65,11 @@ exclude:
   - tmp
 
 scholar:
-  style: elife
+  #style: elife
   source: ./_bibliography
   bibliography: references.bib
-  sort_by: year
-  order: ascending
+  #sort_by: year
+  #order: ascending
   
   #bibliography_list_tag: 'div'
   #bibliography_item_tag: 'p'
