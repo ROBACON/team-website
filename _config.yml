@@ -65,7 +65,7 @@ exclude:
   - tmp
 
 scholar:
-  style: apa
+  style: elife
   source: ./_bibliography
   bibliography: references.bib
   sort_by: year
