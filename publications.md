@@ -13,7 +13,7 @@ nav_order: 1
 <div class="publications">
 <style>ol.bibliography li { list-style: none }</style>
 {%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
+  <!-- <h2 class="year">{{y}}</h2> -->
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
