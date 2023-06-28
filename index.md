@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Welcome"
 image:
-  feature: 
+  feature: banner-wide.svg
 ---
 
 The Cellular Computing group is an interdisciplinary research group focusing
