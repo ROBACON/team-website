@@ -7,6 +7,7 @@ title: Research
 ## Distributed Bio-computing
 
 ![](/images/theme_distributed.svg)
+{: .image-left }
 
 A coordinated distributed network involving multiple computers can be used to
 take on large computational tasks. Likewise, in the realm of genetic circuits,
@@ -24,6 +25,7 @@ computational tasks.
 ## Genetic Circuit Design
 
 ![](/images/theme_circuits.svg)
+{: .image-left }
 
 As synthetic genetic circuits grow in size, they become increasingly
 challenging for individual cells to maintain and run. The cellular resources
@@ -43,6 +45,7 @@ while minimizing costs.
 ## Biological Systems Modeling and Simulation
 
 ![](/images/theme_models.svg)
+{: .image-left }
 
 This theme of our research focuses on the modeling and simulation of
 biological systems across various levels of biological organization. We utilize
