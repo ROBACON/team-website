@@ -66,4 +66,6 @@ exclude:
 
 scholar:
   style: apa
+  bibliography_template: bib
+  use_raw_bibtex_entry: true
   
