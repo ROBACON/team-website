@@ -24,10 +24,13 @@ Our Research Group is affiliated to the following institutions at the [Universit
 
 
 ## Funding Support
-We are grateful to the following funding sources for supporting our research.
-- ANR
-- U.Paris-Saclay
-- DIM-RFSI
+We thanks the following funding sources for supporting our research. 
+- [ANR, project DREAMY](https://dreamy.run/ "https://dreamy.run/")
+- U.Paris-Saclay, project ETSHI
+- INRAE MICA, project PHEMO
+- Ile-de-France DIM-RFSI, project COMBACT
+- U.Paris-Saclay STIC, project DEPEC-MODE
+- INS2I CNRS, project BACON
 
 <div class="tiles">
 {% for post in site.posts %}
