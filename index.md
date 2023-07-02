@@ -24,7 +24,7 @@ Our Research Group is affiliated to the following institutions at the [Universit
 
 
 ## Funding Support
-We thanks the following funding sources for supporting our research. 
+We thank the following funding sources for supporting our research. 
 - [ANR, project DREAMY](https://dreamy.run/ "https://dreamy.run/")
 - U.Paris-Saclay, project ETSHI
 - INRAE MICA, project PHEMO
