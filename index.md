@@ -19,13 +19,15 @@ biotechnology and beyond.
 
 ## Affiliations
 Our Research Group is affiliated to the following institutions at the University of Paris-Saclay:
--Institut Micalis
--ENS Paris-Saclay
+- [link](https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/ "Institut Micalis")
+- [link](https://ens-paris-saclay.fr/en "ENS Paris-Saclay")
+
 
 ## Funding Support
 We are grateful to the following funding sources for supporting our research.
--ANR
--U.Paris-Saclay
+- ANR
+- U.Paris-Saclay
+- DIM-RFSI
 
 <div class="tiles">
 {% for post in site.posts %}
