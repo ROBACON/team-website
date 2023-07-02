@@ -17,6 +17,16 @@ new genetic circuits with diverse functionalities. We aim to advance the field
 of synthetic biology and pave the way for transformative applications in
 biotechnology and beyond.
 
+## Affiliations
+Our Research Group is affiliated to the following institutions at the University of Paris-Saclay:
+-Institut Micalis
+-ENS Paris-Saclay
+
+## Funding Support
+We are grateful to the following funding sources for supporting our research.
+-ANR
+-U.Paris-Saclay
+
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
