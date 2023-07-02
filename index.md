@@ -18,7 +18,7 @@ of synthetic biology and pave the way for transformative applications in
 biotechnology and beyond.
 
 ## Affiliations
-Our Research Group is affiliated to the following institutions at the University of Paris-Saclay:
+Our Research Group is affiliated to the following institutions at the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en "https://www.universite-paris-saclay.fr/en"):
 - [Institut Micalis](https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/ "https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/")
 - [ENS Paris-Saclay](https://ens-paris-saclay.fr/en "https://ens-paris-saclay.fr/en")
 
