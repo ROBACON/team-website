@@ -25,12 +25,34 @@ Our Research Group is affiliated to the following institutions at the [Universit
 
 ## Funding Support
 We thank the following funding sources for supporting our research. 
-- [ANR, project DREAMY](https://dreamy.run/ "https://dreamy.run/")
-- U.Paris-Saclay, project ETSHI
-- INRAE MICA, project PHEMO
-- Ile-de-France DIM-RFSI, project COMBACT
-- U.Paris-Saclay STIC, project DEPEC-MODE
-- INS2I CNRS, project BACON
+
+<div class="tiles">
+
+<div class="tile" markdown="1">
+  ![ANR](/images/anr_logo.png)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![UPSaclay](/images/upsaclay.png)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![INRAE_MICA](/images/mica_dept.png)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![DIM_RFSI](/images/dim_rfsi.png)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![CNRS_INS2I](/images/cnrs_ins2i.jpg)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![PEPR](/images/pepr.jpg)
+</div><!-- /.tile -->
+
+
 
 <div class="tiles">
 {% for post in site.posts %}
