@@ -28,27 +28,27 @@ We thank the following funding sources for supporting our research.
 
 <div class="tiles">
 
-<div class="tile" markdown="1">
+<div class="tile" markdown="2">
   ![ANR](/images/anr_logo.png)
 </div><!-- /.tile -->
 
-<div class="tile" markdown="1">
+<div class="tile" markdown="2">
   ![UPSaclay](/images/upsaclay.png)
 </div><!-- /.tile -->
 
-<div class="tile" markdown="1">
+<div class="tile" markdown="2">
   ![INRAE_MICA](/images/mica_dept.png)
 </div><!-- /.tile -->
 
-<div class="tile" markdown="1">
+<div class="tile" markdown="2">
   ![DIM_RFSI](/images/dim_rfsi.png)
 </div><!-- /.tile -->
 
-<div class="tile" markdown="1">
+<div class="tile" markdown="2">
   ![CNRS_INS2I](/images/cnrs_ins2i.jpg)
 </div><!-- /.tile -->
 
-<div class="tile" markdown="1">
+<div class="tile" markdown="2">
   ![PEPR](/images/pepr.jpg)
 </div><!-- /.tile -->
 
