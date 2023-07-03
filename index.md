@@ -52,7 +52,7 @@ We thank the following funding sources for supporting our research.
   ![PEPR](/images/pepr.jpg)
 </div><!-- /.tile -->
 
-</div><!-- /.tiles -->
+
 
 
 {% for post in site.posts %}
