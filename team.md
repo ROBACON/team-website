@@ -25,7 +25,7 @@ title: Team
 
   <h2 class="post-title">Manish Kushwaha</h2>
 
-  Senior Researcher @ INRAe  
+  Senior Researcher @ INRAE  
   [Personal website](https://manishkushwaha.net/)
 
 </div><!-- /.tile -->
