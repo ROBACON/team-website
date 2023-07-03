@@ -6,9 +6,10 @@ title: Reach Us
 
 ## Our location
 ![Ile-de-France_INRAE_ENS](/images/paris_inrae_ens.png)
+
 Our institutes at the University of Paris-Saclay are located south of Paris, close to the city Versailles.
-- Institut Micalis ([Google Maps link](https://goo.gl/maps/EYnn8JGkHd3YMoEQA "https://goo.gl/maps/EYnn8JGkHd3YMoEQA"))
-- Laboratoire Méthodes Formelles ([Google Maps link](https://goo.gl/maps/RoqzjsKcAAaeKhwG9 "https://goo.gl/maps/RoqzjsKcAAaeKhwG9"))
+- Institut Micalis, INRAE Jouy-en-Josas ([Google Maps link](https://goo.gl/maps/CPPCBnNz2EDrWw8y5 "https://goo.gl/maps/CPPCBnNz2EDrWw8y5"))
+- Laboratoire Méthodes Formelles, ENS Paris-Saclay ([Google Maps link](https://goo.gl/maps/RoqzjsKcAAaeKhwG9 "https://goo.gl/maps/RoqzjsKcAAaeKhwG9"))
 
 ## Mailing addresses
 - Matthias Függer, Laboratoire Méthodes Formelles, ENS Paris-Saclay, 4 Avenue des Sciences, 91190 Gif-sur-Yvette, France.
