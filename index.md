@@ -29,27 +29,27 @@ We thank the following funding sources for supporting our research.
 <div class="tiles">
 
 <div class="tile" markdown="1">
-<img src="/images/anr_logo.png" alt="ANR" width="200"/>
+<img src="/images/anr_logo.png" alt="ANR" width="100"/>
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-<img src="/images/upsaclay.png" alt="UPSaclay" width="200"/>
+<img src="/images/upsaclay.png" alt="UPSaclay" width="100"/>
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-<img src="/images/mica_dept.png" alt="UPSaclay" width="200"/>
+<img src="/images/mica_dept.png" alt="UPSaclay" width="100"/>
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-<img src="/images/dim_rfsi.png" alt="DIM_RFSI" width="200"/>
+<img src="/images/dim_rfsi.png" alt="DIM_RFSI" width="100"/>
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-<img src="/images/cnrs_ins2i.jpg" alt="CNRS_INS2I" width="200"/>
+<img src="/images/cnrs_ins2i.jpg" alt="CNRS_INS2I" width="100"/>
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-<img src="/images/pepr.jpg" alt="PEPR" width="200"/>
+<img src="/images/pepr.jpg" alt="PEPR" width="100"/>
 </div><!-- /.tile -->
 
 
