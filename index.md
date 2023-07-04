@@ -30,6 +30,7 @@ We thank the following funding sources for supporting our research.
 
 <div class="tile" markdown="1">
   ![ANR](/images/anr_logo.png)
+<img src="/images/anr_logo.png" alt="ANR" width="200"/>
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
