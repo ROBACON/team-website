@@ -53,9 +53,10 @@ We thank the following funding sources for supporting our research.
 </div><!-- /.tile -->
 
 
+</div><!-- /.tiles -->
 
 
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+
