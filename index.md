@@ -52,6 +52,9 @@ We thank the following funding sources for supporting our research.
 <img src="/images/pepr.jpg" alt="PEPR" width="50"/>
 </div><!-- /.tile -->
 
+<div class="tile" markdown="1">
+<img src="/images/france2030.png" alt="France 2030" width="50"/>
+</div><!-- /.tile -->
 
 </div><!-- /.tiles -->
 
