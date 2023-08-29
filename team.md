@@ -49,24 +49,27 @@ title: Team
 <div class="tiles">
 
 <div class="tile" markdown="1">
-
   ![Abhinav's photo](../images/abhinav_pujar.png)
-
   <h2 class="post-title">Abhinav Pujar</h2>
-
   Ph.D. candidate @ U.Paris-Saclay / INRAE
-  M.Sc. @ LMU Munich
-  B.Sc. @ DYPBBI Pune
   [LinkedIn](https://www.linkedin.com/in/abhinavpujar)
   [Twitter](https://twitter.com/abhinav_pujar)
+</div><!-- /.tile -->
 
-  ![Student1's photo](./images/student1.jpg)
+<div class="tile" markdown="1">
+  ![Anchita's photo](../images/anchita_sharma.jpg)
+  <h2 class="post-title">Anchita Sharma</h2>
+  M.Sc. candidate @ IISER Tirupati / INRAE
+  [LinkedIn](https://www.linkedin.com/in/anchita-sharma-766072213)
+  [Twitter](https://twitter.com/AnchitaSharma4)
+</div><!-- /.tile -->
 
-  <h2 class="post-title">FirstName1 LastName1</h2>
-
-  Student1 @ U.Paris-Saclay  
-  [Personal page](./student1/)
-
+<div class="tile" markdown="1">
+  ![Student's photo](../images/student.jpg)
+  <h2 class="post-title">Student Name</h2>
+  Student Position @ Student Institute
+  [LinkedIn](https://www.linkedin.com/in/abcd)
+  [Twitter](https://twitter.com/abcd)
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
