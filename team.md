@@ -75,6 +75,7 @@ title: Team
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
 
+<!--- Comment starts
 <div class="tile" markdown="1">
   ![Student's photo](../images/student.jpg)
   <h2 class="post-title">Student Name</h2>
@@ -82,6 +83,7 @@ title: Team
   [LinkedIn](https://www.linkedin.com/in/abcd)
   [Twitter](https://twitter.com/abcd)
 </div><!-- /.tile -->
+Comment ends -->
 
 </div><!-- /.tiles -->
 
