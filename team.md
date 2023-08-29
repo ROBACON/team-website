@@ -70,7 +70,7 @@ title: Team
   ![Anchita's photo](../images/icons/icon-profile.png)
   <h2 class="post-title">Anchita Sharma</h2>
   M.Sc. student  
-  @ IISER-Tirupati / INRAE  
+  @ IISER Tirupati / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
@@ -90,9 +90,17 @@ Comment starts (Member template tile)
 
 <h3 style="clear: left">Former Members</h3>
 
-  * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
-  * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
-  * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
+  * Gayathri Prakash, M2 Master's intern, 2022, IIT Chennai [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/gayathri-prakash-37029b185)
+  * Rafael Montenegro, M1/M2 Master's intern, 2021-2022, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/rafael-montenegro-a49244126)
+  * Angelo Cardoso Batista, Ph.D. student, 2018-2022, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/angelo-cardoso-batista)
+  * Hadi Jbara, M2 Master's intern, 2021, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/hadi-jbara-b346121b6)
+  * Tom Zaplana, M2 Master's intern, 2021, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/tom-zaplana-4046a5151)
+  * Amit Pathania, Postdoc, 2019-2020, Micalis Institute / INRAE [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/amit-pathania-9454a94a)
+  * Roman Luchko, M2 Master's intern, 2020, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/roman-luchko-903b72197)
+  * Tristan Reif-Trauttmansdorff, M2 Master's intern, 2020, Freie University Berlin [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/tristan-reif-127324152)
+  * Corbin Hopper, M1/M2 Master's intern, 2019-2020, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/corbin-hopper-258a33115)
+  * Esteban Lebrun, M1 Master's intern, 2018, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/e-lebrun)
+  * Sai Akhil Golla, M1 Master's intern, 2018, IIT Kharagpur [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/saiakhilgolla)
 
   
 
