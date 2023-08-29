@@ -14,7 +14,8 @@ title: Team
 
   <h2 class="post-title">Matthias Függer</h2>
 
-  Senior Researcher @ CNRS  
+  Senior Researcher  
+  @ CNRS  
   [Personal website](http://www.lsv.fr/~mfuegger/)
 
 </div><!-- /.tile -->
@@ -25,8 +26,11 @@ title: Team
 
   <h2 class="post-title">Manish Kushwaha</h2>
 
-  Senior Researcher @ INRAE  
-  [Personal website](https://manishkushwaha.net/)
+  Senior Researcher  
+  @ INRAE  
+  [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://manishkushwaha.net/) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/kushwahamanish) 
+  [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/manishmicrobe)
 
 </div><!-- /.tile -->
 
@@ -36,7 +40,8 @@ title: Team
 
   <h2 class="post-title">Thomas Nowak</h2>
 
-  Professor @ ENS Paris-Saclay  
+  Professor  
+  @ ENS Paris-Saclay  
   [Personal website](https://www.thomasnowak.net/)
 
 </div><!-- /.tile -->
@@ -53,8 +58,8 @@ title: Team
   <h2 class="post-title">Abhinav Pujar</h2>
   Ph.D. candidate  
   @ U.Paris-Saclay / INRAE  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar)
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar) 
+  [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
@@ -62,8 +67,8 @@ title: Team
   <h2 class="post-title">Anchita Sharma</h2>
   M.Sc. candidate  
   @ IISER Tirupati / INRAE  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213)
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213) 
+  [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
