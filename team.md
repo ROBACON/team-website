@@ -17,6 +17,8 @@ title: Team
   Senior Researcher  
   @ CNRS  
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](http://www.lsv.fr/~mfuegger/) 
+  [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=MoWte0cAAAAJ)
+  [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&sort=producedDate_tdate+desc&authIdPerson_i=16341)
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/matthias-fuegger) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/MatthiasFue)
 
@@ -31,6 +33,8 @@ title: Team
   Senior Researcher  
   @ INRAE  
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://manishkushwaha.net/) 
+  [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=JsXHBggAAAAJ)
+  [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&sort=producedDate_tdate+desc&authIdPerson_i=737735)
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/kushwahamanish) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/manishmicrobe)
 
@@ -45,6 +49,8 @@ title: Team
   Professor  
   @ ENS Paris-Saclay  
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://www.thomasnowak.net/) 
+  [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=h2AktCEAAAAJ)
+  [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&sort=producedDate_tdate+desc&authIdPerson_i=5976)
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/nowathom) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/nowathom)
 
