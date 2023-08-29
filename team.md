@@ -67,7 +67,7 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Anchita's photo](../images/anchita_sharma.jpg)
+  ![Anchita's photo](../images/icons/icon-profile.png)
   <h2 class="post-title">Anchita Sharma</h2>
   M.Sc. student  
   @ IISER-Tirupati / INRAE  
