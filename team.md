@@ -61,7 +61,7 @@ title: Team
   ![Abhinav's photo](../images/abhinav_pujar.jpg)
   <h2 class="post-title">Abhinav Pujar</h2>
   Ph.D. candidate  
-  @ U.Paris-Saclay / INRAE  
+  @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
 </div><!-- /.tile -->
@@ -70,7 +70,7 @@ title: Team
   ![Anchita's photo](../images/anchita_sharma.jpg)
   <h2 class="post-title">Anchita Sharma</h2>
   M.Sc. candidate  
-  @ IISER Tirupati / INRAE  
+  @ IISER-Tirupati / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
@@ -91,7 +91,9 @@ title: Team
 
 <div class="tile" markdown="1">
 
-  ![ExStudent1's photo](https://dreamy.run/images/exstudent1.jpg)
+  * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
+  * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
+  * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
 
   <h2 class="post-title">FirstName1 LastName1</h2>
 
