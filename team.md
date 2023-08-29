@@ -87,14 +87,10 @@ title: Team
 
 <h3 style="clear: left">Former Members</h3>
 
-
-
-<div class="tile" markdown="1">
-
   * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
   * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
   * FirstName LastName, M1 Master's intern (2023), U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/id)
 
   
-</div>
+
 
