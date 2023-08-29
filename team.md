@@ -75,15 +75,18 @@ title: Team
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
 
-<!--- Comment starts
+<!--- 
+Comment starts 
+(Member template tile)
 <div class="tile" markdown="1">
   ![Student's photo](../images/student.jpg)
   <h2 class="post-title">Student Name</h2>
   Student Position @ Student Institute
   [LinkedIn](https://www.linkedin.com/in/abcd)
   [Twitter](https://twitter.com/abcd)
-</div><!-- /.tile -->
-Comment ends -->
+</div><!-- /.tile --> 
+Comment ends 
+-->
 
 </div><!-- /.tiles -->
 
