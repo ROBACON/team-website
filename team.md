@@ -52,7 +52,7 @@ title: Team
   ![Abhinav's photo](../images/abhinav_pujar.jpg)
   <h2 class="post-title">Abhinav Pujar</h2>
   Ph.D. candidate @ U.Paris-Saclay / INRAE
-  [![LinkedIn](../images/icons/icon-linkedin.svg)](https://www.linkedin.com/in/abhinavpujar)
+  [<img alt="LinkedIn" width="40px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar)
   [Twitter](https://twitter.com/abhinav_pujar)
 </div><!-- /.tile -->
 
