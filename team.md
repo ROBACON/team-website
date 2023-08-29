@@ -49,7 +49,7 @@ title: Team
 <div class="tiles">
 
 <div class="tile" markdown="1">
-  ![Abhinav's photo](../images/abhinav_pujar.png)
+  ![Abhinav's photo](../images/abhinav_pujar.jpg)
   <h2 class="post-title">Abhinav Pujar</h2>
   Ph.D. candidate @ U.Paris-Saclay / INRAE
   [LinkedIn](https://www.linkedin.com/in/abhinavpujar)
