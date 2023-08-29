@@ -1,3 +1,4 @@
 Sources for the icon files: 
 https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_includes/
 https://thenounproject.com/icon/personal-website-3898919/ https://static.thenounproject.com/png/3898919-200.png
+Academic icons v1.9.4: https://jpswalsh.github.io/academicons/
