@@ -75,7 +75,7 @@ title: Team
 <div class="tile" markdown="1">
   ![Anchita's photo](../images/icons/icon-profile.png)
   <h2 class="post-title">Anchita Sharma</h2>
-  M.Sc. student  
+  M2 Master's intern  
   @ IISER Tirupati / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
