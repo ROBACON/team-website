@@ -50,7 +50,7 @@ title: Team
 
 <div class="tile" markdown="1">
 
-  ![Abhinav's photo](./images/abhinav_pujar.png)
+  ![Abhinav's photo](../images/abhinav_pujar.png)
 
   <h2 class="post-title">Abhinav Pujar</h2>
 
