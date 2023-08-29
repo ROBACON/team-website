@@ -84,7 +84,7 @@ Comment starts (Member template tile)
   [LinkedIn](https://www.linkedin.com/in/abcd)
   [Twitter](https://twitter.com/abcd)
 </div><!-- /.tile -->
--->
+
 
 </div><!-- /.tiles -->
 
