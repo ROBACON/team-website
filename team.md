@@ -76,15 +76,14 @@ title: Team
 </div><!-- /.tile -->
 
 <!--- 
-Comment starts 
-(Member template tile)
+Comment starts (Member template tile)
 <div class="tile" markdown="1">
   ![Student's photo](../images/student.jpg)
   <h2 class="post-title">Student Name</h2>
   Student Position @ Student Institute
   [LinkedIn](https://www.linkedin.com/in/abcd)
   [Twitter](https://twitter.com/abcd)
-</div><!-- /.tile --> Comment ends 
+</div><!-- /.tile -->
 -->
 
 </div><!-- /.tiles -->
