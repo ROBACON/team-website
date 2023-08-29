@@ -84,8 +84,7 @@ Comment starts
   Student Position @ Student Institute
   [LinkedIn](https://www.linkedin.com/in/abcd)
   [Twitter](https://twitter.com/abcd)
-</div><!-- /.tile --> 
-Comment ends 
+</div><!-- /.tile --> Comment ends 
 -->
 
 </div><!-- /.tiles -->
