@@ -21,7 +21,7 @@ title: Team
 
 <div class="tile" markdown="1">
 
-  ![Manish's photo](https://manishmicrobe.github.io/assets/img/prof_pic.jpg)
+  ![Manish's photo](../images/manish_kushwaha.jpg)
 
   <h2 class="post-title">Manish Kushwaha</h2>
 
