@@ -51,8 +51,8 @@ title: Team
 <div class="tile" markdown="1">
   ![Abhinav's photo](../images/abhinav_pujar.jpg)
   <h2 class="post-title">Abhinav Pujar</h2>
-  Ph.D. candidate 
-  @ U.Paris-Saclay / INRAE
+  Ph.D. candidate  
+  @ U.Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar)
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
 </div><!-- /.tile -->
@@ -60,8 +60,8 @@ title: Team
 <div class="tile" markdown="1">
   ![Anchita's photo](../images/anchita_sharma.jpg)
   <h2 class="post-title">Anchita Sharma</h2>
-  M.Sc. candidate 
-  @ IISER Tirupati / INRAE
+  M.Sc. candidate  
+  @ IISER Tirupati / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213)
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
