@@ -50,6 +50,16 @@ title: Team
 
 <div class="tile" markdown="1">
 
+  ![Abhinav's photo](https://dreamy.run/images/abhinav_pujar.png)
+
+  <h2 class="post-title">Abhinav Pujar</h2>
+
+  Ph.D. candidate @ U.Paris-Saclay / INRAE
+  M.Sc. @ LMU Munich
+  B.Sc. @ DYPBBI Pune
+  [LinkedIn](https://www.linkedin.com/in/abhinavpujar)
+  [Twitter](https://twitter.com/abhinav_pujar)
+
   ![Student1's photo](https://dreamy.run/images/student1.jpg)
 
   <h2 class="post-title">FirstName1 LastName1</h2>
