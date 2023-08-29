@@ -16,7 +16,9 @@ title: Team
 
   Senior Researcher  
   @ CNRS  
-  [Personal website](http://www.lsv.fr/~mfuegger/)
+  [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](http://www.lsv.fr/~mfuegger/) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/matthias-fuegger) 
+  [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/MatthiasFue)
 
 </div><!-- /.tile -->
 
@@ -42,7 +44,9 @@ title: Team
 
   Professor  
   @ ENS Paris-Saclay  
-  [Personal website](https://www.thomasnowak.net/)
+  [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://www.thomasnowak.net/) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/nowathom) 
+  [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/nowathom)
 
 </div><!-- /.tile -->
 
