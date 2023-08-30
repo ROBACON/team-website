@@ -96,7 +96,7 @@ Comment starts (Member template tile)
 
 <h3 style="clear: left">Former Members</h3>
 
-  * Gayathri Prakash, M2 Master's intern, 2022, IIT Chennai [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/gayathri-prakash-37029b185)
+  * Gayathri Prakash, M2 Master's intern, 2022, IIT Madras [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/gayathri-prakash-37029b185)
   * Rafael Montenegro, M1/M2 Master's intern, 2021-2022, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/rafael-montenegro-a49244126)
   * Angelo Cardoso Batista, Ph.D. student, 2018-2022, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/angelo-cardoso-batista)
   * Hadi Jbara, M2 Master's intern, 2021, U. Paris-Saclay [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/hadi-jbara-b346121b6)
