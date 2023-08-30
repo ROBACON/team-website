@@ -81,6 +81,15 @@ title: Team
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
 
+<div class="tile" markdown="1">
+  ![Maud's photo](../images/maud_hofmann.jpg)
+  <h2 class="post-title">Maud Hofmann</h2>
+  Ph.D. student  
+  @ U. Paris-Saclay / INRAE  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/maud-hofmann) 
+  
+</div><!-- /.tile -->
+
 <!--- 
 Comment starts (Member template tile)
 <div class="tile" markdown="1">
