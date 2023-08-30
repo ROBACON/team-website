@@ -73,7 +73,7 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Anchita's photo](../images/icons/icon-profile.png)
+  ![Anchita's photo](../images/anchita_sharma.jpg)
   <h2 class="post-title">Anchita Sharma</h2>
   M2 Master's intern  
   @ IISER Tirupati / INRAE  
