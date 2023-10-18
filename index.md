@@ -18,9 +18,9 @@ of synthetic biology and pave the way for transformative applications in
 biotechnology and beyond.
 
 ## Affiliations
-Our Research Group is affiliated to the following institutions at the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en "https://www.universite-paris-saclay.fr/en"):
-- [Institut Micalis](https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/ "https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/"), [INRAE Jouy-en-Josas](https://www.inrae.fr/en/centres/ile-france-jouy-josas-antony "https://www.inrae.fr/en/centres/ile-france-jouy-josas-antony") / [AgroParisTech](https://www.agroparistech.fr/en "https://www.agroparistech.fr/en")
-- [Laboratoire Méthodes Formelles](https://ens-paris-saclay.fr/en/research/laboratoires-et-instituts/computer-science-laboratory-lmf "https://ens-paris-saclay.fr/en/research/laboratoires-et-instituts/computer-science-laboratory-lmf"), [ENS Paris-Saclay](https://ens-paris-saclay.fr/en "https://ens-paris-saclay.fr/en") / [CNRS](https://www.cnrs.fr/en "https://www.cnrs.fr/en")
+Our Research Group is affiliated to the following institutions at the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en):
+- [Institut Micalis](https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [INRAE Jouy-en-Josas](https://www.inrae.fr/en/centres/ile-france-jouy-josas-antony) / [AgroParisTech](https://www.agroparistech.fr/en)
+- [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [CNRS](https://www.cnrs.fr/en) / [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) 
 
 
 ## Funding Support
