@@ -65,7 +65,7 @@ exclude:
   - tmp
 
 scholar:
-  style: apa
+  style: acm-siggraph
   bibliography_template: bib
-  use_raw_bibtex_entry: true
+  sort_by: author
   
