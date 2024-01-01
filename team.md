@@ -31,7 +31,7 @@ title: Team
 
   <h2 class="post-title">Manish Kushwaha</h2>
 
-  Senior Researcher  
+  Research Director  
   @ INRAE  
   [<img alt="Email" width="20px" src="../images/icons/email-svgrepo-com.svg"/>](mailto:manish.kushwaha@inrae.fr)
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://manishkushwaha.net/)
