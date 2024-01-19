@@ -12,5 +12,5 @@ title: Reach Us
 
 ## Mailing addresses
 - Matthias Függer, Laboratoire Méthodes Formelles, ENS Paris-Saclay, 4 Avenue des Sciences, 91190 Gif-sur-Yvette, France.
-- Manish Kushwaha, Team BioRetroSynth, Institut Micalis, Building 440 INRAE, Domaine de Vilvert, 78352 Jouy-en-Josas, France. 
+- Manish Kushwaha, Institut Micalis, Building 440 INRAE, Domaine de Vilvert, 78352 Jouy-en-Josas, France. 
 - Thomas Nowak, Laboratoire Méthodes Formelles, ENS Paris-Saclay, 4 Avenue des Sciences, 91190 Gif-sur-Yvette, France.
