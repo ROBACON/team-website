@@ -4,7 +4,7 @@ permalink: /former/
 title: Former Members
 ---
 
-<h3 style="clear: left">Former Members</h3>
+
 
 <div class="tiles">
 
