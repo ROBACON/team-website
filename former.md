@@ -9,6 +9,29 @@ title: Former Members
 <div class="tiles">
 
 <div class="tile" markdown="1">
+  ![Luana's photo](../images/luana_martins_ferraz.jpg)
+  <h2 class="post-title">Luana Martins Ferraz</h2>
+  Resarch intern  
+  @ ENS Paris-Saclay  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/luana-martins-ferraz-346661179/)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Azammat's photo](../images/azammat_charaf_zadah.jpg)
+  <h2 class="post-title">Azammat Charaf Zadah</h2>
+  Research intern  
+  @ ENS Paris-Saclay  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/azammat-charaf-zadah/)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Rémi's photo](../images/remi_baron.jpg)
+  <h2 class="post-title">Rémi Baron</h2>
+  Research intern  
+  @ ENS Paris-Saclay  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Elias's photo](../images/elias_pinter.jpg)
   <h2 class="post-title">Elias Pinter</h2>
   Research intern, 2023  

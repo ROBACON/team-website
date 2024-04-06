@@ -87,11 +87,22 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Azammat's photo](../images/azammat_charaf_zadah.jpg)
-  <h2 class="post-title">Azammat Charaf Zadah</h2>
-  Research intern  
-  @ ENS Paris-Saclay  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/azammat-charaf-zadah/)
+  ![Benedikt's photo](../images/benedikt_bollig.png)
+  <h2 class="post-title">Benedikt Bollig</h2>
+  Research Director  
+  @ CNRS  
+  [<img alt="Email" width="20px" src="../images/icons/email-svgrepo-com.svg"/>](mailto:bollig@lmf.cnrs.fr)
+  [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://www.benedikt-bollig.org/)
+  [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.fr/citations?user=dhayPjwAAAAJ)
+  [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&authIdPerson_i=741829)
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/benedikt-bollig/) 
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Christine's photo](../images/christine_wagner.jpg)
+  <h2 class="post-title">Christine Wagner</h2>
+  Resarch intern  
+  @ MCI  
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
@@ -100,6 +111,13 @@ title: Team
   M2 Master's intern  
   @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/cristian-josé-ruiz-calderón)  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Dhrubajyoti's photo](../images/dhrubajyoti_ghosh.jpg)
+  <h2 class="post-title">Dhrubajyoti Ghosh</h2>
+  Resarch intern  
+  @ ENS Paris-Saclay 
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
@@ -126,11 +144,10 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Luana's photo](../images/luana_martins_ferraz.jpg)
-  <h2 class="post-title">Luana Martins Ferraz</h2>
-  Resarch intern  
+  ![Johannes's photo](../images/johannes_bund.jpg)
+  <h2 class="post-title">Johannes Bund</h2>
+  Postdoc  
   @ ENS Paris-Saclay  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/luana-martins-ferraz-346661179/)
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
@@ -151,10 +168,10 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Rémi's photo](../images/remi_baron.jpg)
-  <h2 class="post-title">Rémi Baron</h2>
-  Research intern  
-  @ ENS Paris-Saclay  
+  ![Paul's photo](../images/paul_zeinaty.jpg)
+  <h2 class="post-title">Paul Zeinaty</h2>
+  Resarch intern  
+  @ École polytechnique
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
