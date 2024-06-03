@@ -175,6 +175,13 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
+  ![Prakriti's photo](../images/prakriti_karki.jpg)
+  <h2 class="post-title">Prakriti Karki</h2>
+  M2 Master's intern  
+  @ Learning Planet Institute / INRAE  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Zhuofan's photo](../images/zhuofan_xu.jpg)
   <h2 class="post-title">Zhuofan Xu</h2>
   Ph.D. student  
