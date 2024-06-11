@@ -7,7 +7,7 @@ title: Join Us
 If you're interested in working with us, don't hesitate to drop us an email.
 
 ## Current Opportunities
-
+- [PhD studentship: Cross-species Resource-Aware Design](../positions/2024/PhD 2024 - Cross-species Resource-aware.pdf)
 - [Internship: Modeling the Interaction Between Microalgae and Bacteria](../positions/2024/internship_algae_bacteria.pdf)
 - [Internship: How Many Growth Curves are Enough?](../positions/2024/internship_growth_statistics.pdf)
 - [Internship: Large Language Models for Optimizing Bioprocesses](../positions/2024/internship_llm.pdf)
