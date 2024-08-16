@@ -11,7 +11,7 @@ title: Former Members
 <div class="tile" markdown="1">
   ![Farouk's photo](../images/farouk_abdo.jpg)
   <h2 class="post-title">Farouk Abdo</h2>
-  M2 Master's intern  
+  M2 Master's intern, 2023
   @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/faroukabdo)  
 </div><!-- /.tile -->
@@ -19,7 +19,7 @@ title: Former Members
 <div class="tile" markdown="1">
   ![Cristian's photo](../images/cristian_ruiz_calderon.jpg)
   <h2 class="post-title">Cristian Ruiz Calderon</h2>
-  M2 Master's intern  
+  M2 Master's intern, 2023
   @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/cristian-josé-ruiz-calderón)  
 </div><!-- /.tile -->
