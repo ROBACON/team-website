@@ -141,7 +141,7 @@ title: Team
   ![Lucas' photo](../images/lucas_goiriz.jpg)
   <h2 class="post-title">Lucas Goiriz</h2>
   Ph.D. research stay 
-  @ Valencia Polytechnic University / INRAE  
+  @ I2SysBio / UPV / INRAE  
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=mD3GvGIAAAAJ)
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/lucas-goiriz-beltrán) 
 </div><!-- /.tile -->
