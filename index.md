@@ -17,14 +17,20 @@ new genetic circuits with diverse functionalities. We aim to advance the field
 of synthetic biology and pave the way for transformative applications in
 biotechnology and beyond.
 
-## Affiliations
-Our Research Group is located at the following institutions of the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en):
-- [Institut Micalis](https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [INRAE Jouy-en-Josas](https://www.inrae.fr/en/centres/ile-france-jouy-josas-antony) / [AgroParisTech](https://www.agroparistech.fr/en)
-- [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [CNRS](https://www.cnrs.fr/en) / [ENS Paris-Saclay](https://ens-paris-saclay.fr/en) 
+## CELLS Workshop
 
+We are organizing the workshop [Computing Among Cells (CELLS)](https://www.cellularcomputing.group/CELLS).
+
+## Affiliations
+
+Our Research Group is located at the following institutions of the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en):
+
+- [Institut Micalis](https://www.micalis.fr/micalis_eng/Home/Micalis-Institute/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [INRAE Jouy-en-Josas](https://www.inrae.fr/en/centres/ile-france-jouy-josas-antony) / [AgroParisTech](https://www.agroparistech.fr/en)
+- [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [CNRS](https://www.cnrs.fr/en) / [ENS Paris-Saclay](https://ens-paris-saclay.fr/en)
 
 ## Funding Support
-We thank the following funding sources for supporting our research. 
+
+We thank the following funding sources for supporting our research.
 
 <div class="tiles">
 
@@ -58,8 +64,6 @@ We thank the following funding sources for supporting our research.
 
 </div><!-- /.tiles -->
 
-
 {% for post in site.posts %}
-	{% include post-grid.html %}
+ {% include post-grid.html %}
 {% endfor %}
-
