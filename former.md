@@ -9,6 +9,13 @@ title: Former Members
 <div class="tiles">
 
 <div class="tile" markdown="1">
+  ![Prakriti's photo](../images/prakriti_karki.jpg)
+  <h2 class="post-title">Prakriti Karki</h2>
+  M2 Master's intern, 2024  
+  @ Learning Planet Institute / INRAE  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Farouk's photo](../images/farouk_abdo.jpg)
   <h2 class="post-title">Farouk Abdo</h2>
   M2 Master's intern, 2023
