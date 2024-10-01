@@ -81,7 +81,7 @@ title: Team
   ![Anchita's photo](../images/anchita_sharma.jpg)
   <h2 class="post-title">Anchita Sharma</h2>
   Ph.D. student  
-  @ U. Paris-Saclay / INRAE  
+  @ U. Paris-Saclay, U. Valencia / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
