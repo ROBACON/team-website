@@ -80,8 +80,8 @@ title: Team
 <div class="tile" markdown="1">
   ![Anchita's photo](../images/anchita_sharma.jpg)
   <h2 class="post-title">Anchita Sharma</h2>
-  M2 Master's intern  
-  @ IISER Tirupati / INRAE  
+  Ph.D. student  
+  @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213) 
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
@@ -170,12 +170,7 @@ title: Team
   @ École polytechnique
 </div><!-- /.tile -->
 
-<div class="tile" markdown="1">
-  ![Prakriti's photo](../images/prakriti_karki.jpg)
-  <h2 class="post-title">Prakriti Karki</h2>
-  M2 Master's intern  
-  @ Learning Planet Institute / INRAE  
-</div><!-- /.tile -->
+
 
 <div class="tile" markdown="1">
   ![Zhuofan's photo](../images/zhuofan_xu.jpg)
