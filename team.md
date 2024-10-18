@@ -20,7 +20,7 @@ title: Team
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](http://www.lsv.fr/~mfuegger/)
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=MoWte0cAAAAJ)
   [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&sort=producedDate_tdate+desc&authIdPerson_i=16341)
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/matthias-fuegger) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/matthias-fuegger)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/MatthiasFue)
 
 </div><!-- /.tile -->
@@ -37,7 +37,7 @@ title: Team
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://manishkushwaha.net/)
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=JsXHBggAAAAJ)
   [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&sort=producedDate_tdate+desc&authIdPerson_i=737735)
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/kushwahamanish) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/kushwahamanish)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/manishmicrobe)
 
 </div><!-- /.tile -->
@@ -54,11 +54,10 @@ title: Team
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://www.thomasnowak.net/)
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=h2AktCEAAAAJ)
   [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&sort=producedDate_tdate+desc&authIdPerson_i=5976)
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/nowathom) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/nowathom)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/nowathom)
 
 </div><!-- /.tile -->
-
 
 </div><!-- /.tiles -->
 
@@ -71,18 +70,23 @@ title: Team
   <h2 class="post-title">Abhinav Pujar</h2>
   Ph.D. student  
   @ U. Paris-Saclay / INRAE  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
 </div><!-- /.tile -->
 
-
+<div class="tile" markdown="1">
+  ![Alexandra's photo](../images/face.svg)
+  <h2 class="post-title">Alexandra Loudieres</h2>
+  Ph.D. student  
+  @ ENS Paris-Saclay  
+</div><!-- /.tile -->
 
 <div class="tile" markdown="1">
   ![Anchita's photo](../images/anchita_sharma.jpg)
   <h2 class="post-title">Anchita Sharma</h2>
   Ph.D. student  
   @ U. Paris-Saclay, U. Valencia / INRAE  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/anchita-sharma-766072213)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/AnchitaSharma4)
 </div><!-- /.tile -->
 
@@ -95,39 +99,14 @@ title: Team
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://www.benedikt-bollig.org/)
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.fr/citations?user=dhayPjwAAAAJ)
   [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&authIdPerson_i=741829)
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/benedikt-bollig/) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/benedikt-bollig/)
 </div><!-- /.tile -->
-
-<div class="tile" markdown="1">
-  ![Christine's photo](../images/christine_wagner.jpg)
-  <h2 class="post-title">Christine Wagner</h2>
-  Resarch intern  
-  @ MCI  
-</div><!-- /.tile -->
-
-
 
 <div class="tile" markdown="1">
   ![Dhrubajyoti's photo](../images/dhrubajyoti_ghosh.jpg)
   <h2 class="post-title">Dhrubajyoti Ghosh</h2>
   Resarch intern  
-  @ ENS Paris-Saclay 
-</div><!-- /.tile -->
-
-<div class="tile" markdown="1">
-  ![Fabricio's photo](../images/fabricio_cravo.jpg)
-  <h2 class="post-title">Fabricio Cravo</h2>
-  Ph.D. student  
-  @ U. Paris-Saclay  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/fabriciocravo/)
-</div><!-- /.tile -->
-
-
-<div class="tile" markdown="1">
-  ![Gabriel's photo](../images/gabriel_le_bouder.jpg)
-  <h2 class="post-title">Gabriel Le Bouder</h2>
-  Postdoc  
-  @ ENS Paris-Saclay  
+  @ ENS Paris-Saclay
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
@@ -143,7 +122,15 @@ title: Team
   Ph.D. research stay  
   @ I2SysBio / UPV / INRAE  
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=mD3GvGIAAAAJ)
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/lucas-goiriz-beltrán) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/lucas-goiriz-beltrán)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Mariapia's photo](../images/mariapia_durso.jpg)
+  <h2 class="post-title">Mariapia D'Urso</h2>
+  Ph.D. student  
+  @ ENS Paris-Saclay  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/mariapia-d-urso-b17563150/)
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
@@ -151,7 +138,7 @@ title: Team
   <h2 class="post-title">Maud Hofmann</h2>
   Ph.D. student  
   @ U. Paris-Saclay / INRAE  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/maud-hofmann) 
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/maud-hofmann)
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
@@ -166,11 +153,17 @@ title: Team
 <div class="tile" markdown="1">
   ![Paul's photo](../images/paul_zeinaty.jpg)
   <h2 class="post-title">Paul Zeinaty</h2>
-  Resarch intern  
-  @ École polytechnique
+  Ph.D. student  
+  @ ENS Paris-Saclay  
 </div><!-- /.tile -->
 
-
+<div class="tile" markdown="1">
+  ![Suhana's photo](../images/suhana_nujum_g.jpg)
+  <h2 class="post-title">Suhana Nujum G</h2>
+  Research intern  
+  @ IISER Thiruvananthapuram  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/suhana-nujum-g/)
+</div><!-- /.tile -->
 
 <div class="tile" markdown="1">
   ![Zhuofan's photo](../images/zhuofan_xu.jpg)
@@ -180,7 +173,6 @@ title: Team
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/zhuofan-xu-max/)
 </div><!-- /.tile -->
   
-
 <!--- 
 Comment starts (Member template tile)
 <div class="tile" markdown="1">
@@ -191,14 +183,7 @@ Comment starts (Member template tile)
   [Twitter](https://twitter.com/abcd)
 </div><!-- /.tile -->
 
-
 </div><!-- /.tiles -->
 
 <h3 style="clear: left">Former Members</h3>
 [(click here)](../former/)
-
-
-
-  
-
-

@@ -9,6 +9,44 @@ title: Former Members
 <div class="tiles">
 
 <div class="tile" markdown="1">
+  ![Alexander's photo](../images/face.svg)
+  <h2 class="post-title">Alexander Rinsche</h2>
+  Research intern  
+  @ TU Wien  
+  [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://github.com/relaxin101)
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/alexander-rinsche-658603251/)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Fabricio's photo](../images/fabricio_cravo.jpg)
+  <h2 class="post-title">Fabricio Cravo</h2>
+  Ph.D. student  
+  @ U. Paris-Saclay  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/fabriciocravo/)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Gabriel's photo](../images/gabriel_le_bouder.jpg)
+  <h2 class="post-title">Gabriel Le Bouder</h2>
+  Postdoc  
+  @ ENS Paris-Saclay  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Ishan's photo](../images/ishan_ganguly.jpg)
+  <h2 class="post-title">Ishan Ganguly</h2>
+  Research intern  
+  @ MIT  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Christine's photo](../images/christine_wagner.jpg)
+  <h2 class="post-title">Christine Wagner</h2>
+  Resarch intern  
+  @ MCI  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Prakriti's photo](../images/prakriti_karki.jpg)
   <h2 class="post-title">Prakriti Karki</h2>
   M2 Master's intern, 2024  
@@ -291,8 +329,3 @@ title: Former Members
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-
-
-  
-
-
