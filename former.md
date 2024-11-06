@@ -9,6 +9,15 @@ title: Former Members
 <div class="tiles">
 
 <div class="tile" markdown="1">
+  ![Lucas' photo](../images/lucas_goiriz.jpg)
+  <h2 class="post-title">Lucas Goiriz</h2>
+  Ph.D. research stay, 2024  
+  @ I2SysBio / UPV / INRAE  
+  [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.com/citations?user=mD3GvGIAAAAJ)
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/lucas-goiriz-beltrán)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Alexander's photo](../images/face.svg)
   <h2 class="post-title">Alexander Rinsche</h2>
   Research intern  
