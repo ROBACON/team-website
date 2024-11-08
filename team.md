@@ -75,7 +75,7 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Alexandra's photo](../images/face.svg)
+  ![Alexandra's photo](../images/alexandra_loudieres.jpg)
   <h2 class="post-title">Alexandra Loudieres</h2>
   Ph.D. student  
   @ ENS Paris-Saclay  

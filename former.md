@@ -18,7 +18,7 @@ title: Former Members
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Alexander's photo](../images/face.svg)
+  ![Alexander's photo](../images/alexander_rinsche.jpg)
   <h2 class="post-title">Alexander Rinsche</h2>
   Research intern  
   @ TU Wien  
