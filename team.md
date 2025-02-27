@@ -39,6 +39,7 @@ title: Team
   [<img alt="HAL" width="20px" src="../images/icons/hal.svg"/>](https://hal.science/search/index/?q=*&sort=producedDate_tdate+desc&authIdPerson_i=737735)
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/kushwahamanish)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/manishmicrobe)
+  [<img alt="Bluesky" width="20px" src="../images/icons/icon-bluesky.svg"/>](https://bsky.app/profile/manishmicrobe.bsky.social)
 
 </div><!-- /.tile -->
 
