@@ -62,12 +62,13 @@
 #       - name: Deploy to GitHub Pages
 #         id: deployment
 #         uses: actions/deploy-pages@v2
-name: Deploy Jekyll site to GitHub Pages
+#
+name: Build Jekyll with Scholar
 
 on:
   push:
     branches:
-      - main # Change to your default branch if different
+      - main
   workflow_dispatch:
 
 permissions:
@@ -82,16 +83,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+      - name: Install Ruby and Bundler
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+          bundler-cache: true
 
       - name: Build Jekyll site
-        uses: actions/jekyll-build-pages@v1
+        run: bundle exec jekyll build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site # Default Jekyll output folder
+          path: _site
 
   deploy:
     runs-on: ubuntu-latest
