@@ -124,7 +124,6 @@ title: Team
   @ ENS Paris-Saclay  
 </div><!-- /.tile -->
 
-
 <div class="tile" markdown="1">
   ![Mariapia's photo](../images/mariapia_durso.jpg)
   <h2 class="post-title">Mariapia D'Urso</h2>
@@ -157,7 +156,6 @@ title: Team
   @ ENS Paris-Saclay  
 </div><!-- /.tile -->
 
-
 <div class="tile" markdown="1">
   ![Shreyas' photo](../images/shreyas_parkhie.jpg)
   <h2 class="post-title">Shreyas Parkhie</h2>
@@ -166,7 +164,6 @@ title: Team
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/shreyas-p-1563b099)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/ShreyasParkhie)
 </div><!-- /.tile -->
-
 
 <div class="tile" markdown="1">
   ![Suhana's photo](../images/suhana_nujum_g.jpg)
@@ -179,7 +176,7 @@ title: Team
 <div class="tile" markdown="1">
   ![Tom's photo](../images/face.svg)
   <h2 class="post-title">Tom Piso</h2>
-  Research intern
+  Research intern  
   @ ENS Lyon
 </div><!-- /.tile -->
 
