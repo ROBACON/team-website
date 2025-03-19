@@ -117,6 +117,12 @@ title: Team
   @ ENS Paris-Saclay  
 </div><!-- /.tile -->
 
+<div class="tile" markdown="1">
+  ![Kerian's photo](../images/kerian_thuillier.jpg)
+  <h2 class="post-title">Kerian Thuillier</h2>
+  Postdoc  
+  @ ENS Paris-Saclay  
+</div><!-- /.tile -->
 
 
 <div class="tile" markdown="1">
@@ -168,6 +174,13 @@ title: Team
   Research intern  
   @ IISER Thiruvananthapuram  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/suhana-nujum-g/)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Tom's photo](../images/face.svg)
+  <h2 class="post-title">Tom Piso</h2>
+  Research intern
+  @ ENS Lyon
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
