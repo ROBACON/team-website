@@ -174,7 +174,7 @@ title: Team
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Tom's photo](../images/face.svg)
+  ![Tom's photo](../images/tom_piso.jpg)
   <h2 class="post-title">Tom Piso</h2>
   Research intern  
   @ ENS Lyon
