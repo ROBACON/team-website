@@ -7,7 +7,7 @@ image:
 ---
 
 The Cellular Computing group is an interdisciplinary research group focusing
-on bioengineering of genetic circuits in bacterial cells, with increasing
+on bioengineering of genetic circuits in cells, with increasing
 levels of complexity: going from molecular-level models to multicellular
 circuits. By integrating experimental data with mathematical modeling, we
 strive to understand and predict the behavior of these circuits, facilitating
