@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /team/
-title: Team
+permalink: /members/
+title: Members
 ---
 
 <h3 style="clear: left">Principal Investigators</h3>
