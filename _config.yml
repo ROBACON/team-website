@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Cellular Computing Group"
-description: "The Cellular Computing group is an interdisciplinary research group focusing on bioengineering of genetic circuits in bacterial cells, with increasing levels of complexity."
+title: "Cellular Computing Team"
+description: "The Cellular Computing team is an interdisciplinary research team focusing on bioengineering of genetic circuits in cells, with increasing levels of complexity."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://www.cellularcomputing.group
+url: https://www.cellularcomputing.team
 feed:
   path: atom.xml
 
