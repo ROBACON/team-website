@@ -6,7 +6,7 @@ image:
   feature: banner-wide.svg
 ---
 
-The Cellular Computing group is an interdisciplinary research group focusing
+The Cellular Computing team is an interdisciplinary research team focusing
 on bioengineering of genetic circuits in cells, with increasing
 levels of complexity: going from molecular-level models to multicellular
 circuits. By integrating experimental data with mathematical modeling, we
@@ -19,11 +19,11 @@ biotechnology and beyond.
 
 ## CELLS Workshop
 
-We are organizing the workshop [Computing Among Cells (CELLS)](https://www.cellularcomputing.group/CELLS).
+We are organizing the workshop [Computing Among Cells (CELLS)](https://www.cellularcomputing.team/CELLS).
 
 ## Affiliations
 
-Our Research Group is located at the following institutions of the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en):
+Our Research Team is located at the following institutions of the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en):
 
 - [Institut Micalis](https://www.micalis.fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [INRAE Jouy-en-Josas](https://www.inrae.fr/en/centres/ile-france-jouy-josas-antony) / [AgroParisTech](https://www.agroparistech.fr/en)
 - [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en) / [CNRS](https://www.cnrs.fr/en) / [ENS Paris-Saclay](https://ens-paris-saclay.fr/en)
