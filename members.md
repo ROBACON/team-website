@@ -181,6 +181,13 @@ title: Members
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
+  ![Vincent's photo](../images/vincent_ledreau.jpg)
+  <h2 class="post-title">Vincent Le Dréau</h2>
+  Research intern
+  @ Université Paris-Saclay
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Zhuofan's photo](../images/zhuofan_xu.jpg)
   <h2 class="post-title">Zhuofan Xu</h2>
   Ph.D. student  
