@@ -107,7 +107,8 @@ title: Members
   ![Dhrubajyoti's photo](../images/dhrubajyoti_ghosh.jpg)
   <h2 class="post-title">Dhrubajyoti Ghosh</h2>
   Resarch intern  
-  @ ENS Paris-Saclay
+  @ ENS Paris-Saclay  
+  [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://ghoshdhruba.github.io/)
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
