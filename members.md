@@ -112,13 +112,6 @@ title: Members
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
-  ![Johannes's photo](../images/johannes_bund.jpg)
-  <h2 class="post-title">Johannes Bund</h2>
-  Postdoc  
-  @ ENS Paris-Saclay  
-</div><!-- /.tile -->
-
-<div class="tile" markdown="1">
   ![Kerian's photo](../images/kerian_thuillier.jpg)
   <h2 class="post-title">Kerian Thuillier</h2>
   Postdoc  
@@ -164,21 +157,6 @@ title: Members
   @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/shreyas-p-1563b099)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/ShreyasParkhie)
-</div><!-- /.tile -->
-
-<div class="tile" markdown="1">
-  ![Suhana's photo](../images/suhana_nujum_g.jpg)
-  <h2 class="post-title">Suhana Nujum G</h2>
-  Research intern  
-  @ IISER Thiruvananthapuram  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/suhana-nujum-g/)
-</div><!-- /.tile -->
-
-<div class="tile" markdown="1">
-  ![Tom's photo](../images/tom_piso.jpg)
-  <h2 class="post-title">Tom Piso</h2>
-  Research intern  
-  @ ENS Lyon
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
