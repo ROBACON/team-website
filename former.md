@@ -9,6 +9,13 @@ title: Former Members
 <div class="tiles">
 
 <div class="tile" markdown="1">
+  ![Vincent's photo](../images/vincent_ledreau.jpg)
+  <h2 class="post-title">Vincent Le Dréau</h2>
+  Research intern
+  @ Université Paris-Saclay
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Suhana's photo](../images/suhana_nujum_g.jpg)
   <h2 class="post-title">Suhana Nujum G</h2>
   Research intern  

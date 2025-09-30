@@ -106,7 +106,7 @@ title: Members
 <div class="tile" markdown="1">
   ![Dhrubajyoti's photo](../images/dhrubajyoti_ghosh.jpg)
   <h2 class="post-title">Dhrubajyoti Ghosh</h2>
-  Resarch intern  
+  Ph.D. student  
   @ ENS Paris-Saclay  
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://ghoshdhruba.github.io/)
 </div><!-- /.tile -->
@@ -157,13 +157,6 @@ title: Members
   @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/shreyas-p-1563b099)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/ShreyasParkhie)
-</div><!-- /.tile -->
-
-<div class="tile" markdown="1">
-  ![Vincent's photo](../images/vincent_ledreau.jpg)
-  <h2 class="post-title">Vincent Le Dréau</h2>
-  Research intern
-  @ Université Paris-Saclay
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
