@@ -110,8 +110,7 @@ title: Members
   Postdoc  
   @ Micalis & MetaGenoPolis / INRAE  
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.fr/citations?user=wa5dL1kAAAAJ)
-  [<img alt="GitHub" width="20px" src="../images/icons/github-mark.svg"/>](https://github.com/W-L)
-  
+  [<img alt="GitHub" width="20px" src="../images/icons/github-mark.svg"/>](https://github.com/W-L)  
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
