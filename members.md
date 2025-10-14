@@ -104,6 +104,15 @@ title: Members
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://ghoshdhruba.github.io/)
 </div><!-- /.tile -->
 
+
+
+<div class="tile" markdown="1">
+  ![Kerian's photo](../images/kerian_thuillier.jpg)
+  <h2 class="post-title">Kerian Thuillier</h2>
+  Postdoc  
+  @ ENS Paris-Saclay  
+</div><!-- /.tile -->
+
 <div class="tile" markdown="1">
   ![Lukas's photo](../images/lukas_weilguny.jpg)
   <h2 class="post-title">Lukas Weilguny</h2>
@@ -111,13 +120,6 @@ title: Members
   @ Micalis & MetaGenoPolis / INRAE  
   [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.fr/citations?user=wa5dL1kAAAAJ)
   [<img alt="GitHub" width="20px" src="../images/icons/github-mark.svg"/>](https://github.com/W-L)  
-</div><!-- /.tile -->
-
-<div class="tile" markdown="1">
-  ![Kerian's photo](../images/kerian_thuillier.jpg)
-  <h2 class="post-title">Kerian Thuillier</h2>
-  Postdoc  
-  @ ENS Paris-Saclay  
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
