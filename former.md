@@ -4,7 +4,7 @@ permalink: /former/
 title: Former Members
 ---
 
-
+<div class="tiles">
 
 <div class="tile" markdown="1">
   ![Abhinav's photo](../images/abhinav_pujar.jpg)
@@ -14,8 +14,6 @@ title: Former Members
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
 </div><!-- /.tile -->
-
-<div class="tiles">
 
 <div class="tile" markdown="1">
   ![Vincent's photo](../images/vincent_ledreau.jpg)
