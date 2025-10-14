@@ -6,6 +6,15 @@ title: Former Members
 
 
 
+<div class="tile" markdown="1">
+  ![Abhinav's photo](../images/abhinav_pujar.jpg)
+  <h2 class="post-title">Abhinav Pujar</h2>
+  Ph.D. student  
+  @ U. Paris-Saclay / INRAE  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar)
+  [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
+</div><!-- /.tile -->
+
 <div class="tiles">
 
 <div class="tile" markdown="1">
