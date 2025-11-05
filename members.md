@@ -104,7 +104,12 @@ title: Members
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://ghoshdhruba.github.io/)
 </div><!-- /.tile -->
 
-
+<div class="tile" markdown="1">
+  ![Jana's photo](../images/jana_maslovaric.jpg)
+  <h2 class="post-title">Jana Maslovaric</h2>
+  Ph.D. student  
+  @ U. Paris-Saclay / INRAE 
+</div><!-- /.tile -->
 
 <div class="tile" markdown="1">
   ![Kerian's photo](../images/kerian_thuillier.jpg)
