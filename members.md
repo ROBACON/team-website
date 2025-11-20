@@ -66,14 +66,7 @@ title: Members
 
 <div class="tiles">
 
-<div class="tile" markdown="1">
-  ![Abhinav's photo](../images/abhinav_pujar.jpg)
-  <h2 class="post-title">Abhinav Pujar</h2>
-  Ph.D. student  
-  @ U. Paris-Saclay / INRAE  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/abhinavpujar)
-  [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/abhinav_pujar)
-</div><!-- /.tile -->
+
 
 <div class="tile" markdown="1">
   ![Alexandra's photo](../images/alexandra_loudieres.jpg)
@@ -112,10 +105,26 @@ title: Members
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
+  ![Jana's photo](../images/jana_maslovaric.jpg)
+  <h2 class="post-title">Jana Maslovaric</h2>
+  Ph.D. student  
+  @ U. Paris-Saclay / INRAE 
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Kerian's photo](../images/kerian_thuillier.jpg)
   <h2 class="post-title">Kerian Thuillier</h2>
   Postdoc  
   @ ENS Paris-Saclay  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Lukas's photo](../images/lukas_weilguny.jpg)
+  <h2 class="post-title">Lukas Weilguny</h2>
+  Postdoc  
+  @ Micalis & MetaGenoPolis / INRAE  
+  [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.fr/citations?user=wa5dL1kAAAAJ)
+  [<img alt="GitHub" width="20px" src="../images/icons/github-mark.svg"/>](https://github.com/W-L)  
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
