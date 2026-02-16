@@ -112,6 +112,15 @@ title: Members
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
+  ![Joshua's photo](../images/joshua_ricouvier.jpg)
+  <h2 class="post-title">Joshua Ricouvier</h2>
+  Postdoc  
+  @ Micalis / INRAE  
+  [<img alt="Google Scholar" width="20px" src="../images/icons/google-scholar.svg"/>](https://scholar.google.fr/citations?user=pCjpykQAAAAJ)
+  [<img alt="Bluesky" width="20px" src="../images/icons/icon-bluesky.svg"/>](https://bsky.app/profile/jricou.bsky.social)
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Kerian's photo](../images/kerian_thuillier.jpg)
   <h2 class="post-title">Kerian Thuillier</h2>
   Postdoc  
