@@ -104,6 +104,16 @@ title: Members
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://ghoshdhruba.github.io/)
 </div><!-- /.tile -->
 
+
+<div class="tile" markdown="1">
+  ![Ivan's photo](../images/ivan_rouffilange.jpg)
+  <h2 class="post-title">Ivan Rouffilange</h2>
+  M2 Master's intern, 2026
+  U. Strasbourg / INRAE  
+  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/ivan-rouffilange-827a25181)  
+</div><!-- /.tile -->
+
+
 <div class="tile" markdown="1">
   ![Jana's photo](../images/jana_maslovaric.jpg)
   <h2 class="post-title">Jana Maslovaric</h2>
