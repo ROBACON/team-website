@@ -6,3 +6,4 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "jekyll-scholar", group: :jekyll_plugins
+gem "sass-embedded", "< 1.100.0"
