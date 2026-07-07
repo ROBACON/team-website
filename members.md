@@ -104,6 +104,14 @@ title: Members
   [<img alt="Personal Page" width="20px" src="../images/icons/icon-personalpage.png"/>](https://ghoshdhruba.github.io/)
 </div><!-- /.tile -->
 
+<div class="tile" markdown="1">
+  ![Dylan's photo](../images/dylan_baumann.jpg)
+  <h2 class="post-title">Dhrubajyoti Ghosh</h2>
+  Ph.D. student  
+  @ TU Wien
+  [<img alt="GitHub" width="20px" src="../images/icons/github-mark.svg"/>](https://github.com/Bawady)  
+</div><!-- /.tile -->
+
 
 <div class="tile" markdown="1">
   ![Ivan's photo](../images/ivan_rouffilange.jpg)
@@ -185,14 +193,6 @@ title: Members
   @ U. Paris-Saclay / INRAE  
   [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/shreyas-p-1563b099)
   [<img alt="Twitter" width="20px" src="../images/icons/icon-twitter.svg"/>](https://twitter.com/ShreyasParkhie)
-</div><!-- /.tile -->
-
-<div class="tile" markdown="1">
-  ![Zhuofan's photo](../images/zhuofan_xu.jpg)
-  <h2 class="post-title">Zhuofan Xu</h2>
-  Ph.D. student  
-  @ ENS Paris-Saclay  
-  [<img alt="LinkedIn" width="20px" src="../images/icons/icon-linkedin.svg"/>](https://www.linkedin.com/in/zhuofan-xu-max/)
 </div><!-- /.tile -->
   
 <!--- 
