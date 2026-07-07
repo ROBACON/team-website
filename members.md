@@ -106,7 +106,7 @@ title: Members
 
 <div class="tile" markdown="1">
   ![Dylan's photo](../images/dylan_baumann.jpg)
-  <h2 class="post-title">Dhrubajyoti Ghosh</h2>
+  <h2 class="post-title">Dylan Baumann</h2>
   Ph.D. student  
   @ TU Wien
   [<img alt="GitHub" width="20px" src="../images/icons/github-mark.svg"/>](https://github.com/Bawady)  
