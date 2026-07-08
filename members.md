@@ -76,6 +76,13 @@ title: Members
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
+  ![Alissia's photo](../images/alissia_chantout.jpg)
+  <h2 class="post-title">Alissia Chantout</h2>
+  Research intern  
+  Université Paris Cité  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Anchita's photo](../images/anchita_sharma.jpg)
   <h2 class="post-title">Anchita Sharma</h2>
   Ph.D. student  
@@ -180,10 +187,24 @@ title: Members
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
+  ![Parth's photo](../images/parth_chavan.jpg)
+  <h2 class="post-title">Parth Chavan</h2>
+  Research intern  
+  École polytechnique  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
   ![Paul's photo](../images/paul_zeinaty.jpg)
   <h2 class="post-title">Paul Zeinaty</h2>
   Ph.D. student  
   @ ENS Paris-Saclay  
+</div><!-- /.tile -->
+
+<div class="tile" markdown="1">
+  ![Sevinj's photo](../images/sevinj_mahmudova.jpg)
+  <h2 class="post-title">Sevinj Mahmudova</h2>
+  Research intern  
+  MIT  
 </div><!-- /.tile -->
 
 <div class="tile" markdown="1">
