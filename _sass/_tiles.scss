@@ -12,6 +12,13 @@
     @include span-columns(3);
     @include omega(4n);
   }
+  // Render every member photo as an identical square, cropping to fill
+  // instead of scaling to the source aspect ratio.
+  img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+  }
   .entry-date {
     @include font-size(16,no);
     color: lighten($text-color,25);
