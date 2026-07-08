@@ -13,8 +13,10 @@
     @include omega(4n);
   }
   // Render every member photo as an identical square, cropping to fill
-  // instead of scaling to the source aspect ratio.
-  img {
+  // instead of scaling to the source aspect ratio. Scoped to the bare photo
+  // (a direct child of its paragraph) so the linked social icons, which sit
+  // inside <a> tags, keep their own small size.
+  p > img {
     width: 100%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
