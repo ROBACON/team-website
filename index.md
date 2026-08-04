@@ -89,7 +89,7 @@ We thank the following funding sources for supporting our research.
 ![CNRS_INS2I](/images/cnrs_ins2i.jpg)
 ![PEPR](/images/pepr.jpg)
 ![France 2030](/images/france2030.png)
-![France Excellence Eiffel scholarship](/images/UPSaclay Graduate School Life Sciences and Health)
+![France Excellence Eiffel scholarship](/images/logo_eiffel_bourse.jpg)
 ![UPSaclay Graduate School Life Sciences and Health](/images/GS_LSH.jpg)
 ![UPSaclay Living Machines @ Work interdisciplinary object](/images/OI_LMW.jpg)
 ![DIM BioConvergence for Health](/images/Logo-Bioconvs-2-medium.png)
