@@ -36,49 +36,48 @@ We thank the following funding sources for supporting our research.
 
 <div class="funder" markdown="1">
 <img src="/images/anr_logo.png" alt="ANR" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/upsaclay.png" alt="UPSaclay" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/mica_dept.png" alt="INRAE MICA department" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/dim_rfsi.png" alt="DIM_RFSI" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/cnrs_ins2i.jpg" alt="CNRS_INS2I" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/pepr.jpg" alt="PEPR" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/france2030.png" alt="France 2030" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/logo_eiffel_bourse.jpg" alt="France Excellence Eiffel scholarship" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/GS_LSH.jpg" alt="UPSaclay Graduate School Life Sciences and Health" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/OI_LMW.jpg" alt="UPSaclay Living Machines @ Work interdisciplinary object" width="100"/>
-</div><!-- /.tile -->
+</div><!-- /.funder -->
 
 <div class="funder" markdown="1">
 <img src="/images/Logo-Bioconvs-2-medium.png" alt=" DIM BioConvergence for Health" width="100"/>
-</div><!-- /.tile -->
-
-</div><!-- /.tiles -->
+</div><!-- /.funder -->
+</div><!-- /.funders -->
 
 {% for post in site.posts %}
  {% include post-grid.html %}
