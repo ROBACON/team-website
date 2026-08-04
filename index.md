@@ -33,7 +33,7 @@ Our Research Team is located at the following institutions of the [Université P
 We thank the following funding sources for supporting our research.
 
 <style>
-.funder-grid {
+.funder-grid > p {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 20px;
