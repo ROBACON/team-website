@@ -93,7 +93,6 @@ We thank the following funding sources for supporting our research.
 ![UPSaclay Graduate School Life Sciences and Health](/images/GS_LSH.jpg)
 ![UPSaclay Living Machines @ Work interdisciplinary object](/images/OI_LMW.jpg)
 ![DIM BioConvergence for Health](/images/Logo-Bioconvs-2-medium.png)
-![BioConvergence for Health](/images/Logo-Bioconvs-2-medium.png)
 
 </div>
 
