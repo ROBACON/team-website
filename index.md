@@ -32,6 +32,35 @@ Our Research Team is located at the following institutions of the [Université P
 
 We thank the following funding sources for supporting our research.
 
+<style>
+.funder-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
+  align-items: center;
+  justify-items: center;
+  margin: 2em 0;
+}
+.funder-grid img { max-width: 100%; height: auto; }
+</style>
+
+<div class="funder-grid" markdown="1">
+
+![ANR](/images/anr_logo.png)
+![UPSaclay](/images/upsaclay.png)
+![UPSaclay](/images/mica_dept.png)
+![DIM_RFSI](/images/dim_rfsi.png)
+![CNRS_INS2I](/images/cnrs_ins2i.jpg)
+![PEPR](/images/pepr.jpg)
+![France 2030](/images/france2030.png)
+![France Excellence Eiffel scholarship](/images/logo_eiffel_bourse.jpg)
+![UPSaclay Graduate School Life Sciences and Health](/images/GS_LSH.jpg)
+![UPSaclay Living Machines @ Work interdisciplinary object](/images/OI_LMW.jpg)
+![BioConvergence for Health](/images/Logo-Bioconvs-2-medium.png)
+
+</div>
+
+
 <div class="funders">
 
 <div class="funder" markdown="1">
