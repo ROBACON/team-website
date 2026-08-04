@@ -68,8 +68,8 @@ sitemap: false
   margin: 2em 0;
 
   img {
-    height: 60px;          // uniform height for every logo
-    width: auto;           // preserve each logo's aspect ratio
+    height: auto;          // preserve each logo's aspect ratio
+    width: 60px;           // uniform width for every logo 
     object-fit: contain;   // never crop
     background: #fff;      // unify transparent PNGs and white JPGs
     padding: 8px;
