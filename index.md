@@ -74,6 +74,10 @@ We thank the following funding sources for supporting our research.
 <img src="/images/OI_LMW.jpg" alt="UPSaclay Living Machines @ Work interdisciplinary object" width="100"/>
 </div><!-- /.tile -->
 
+<div class="tile" markdown="1">
+<img src="/images/Logo-Bioconvs-2-medium.png" alt="BioConvergence for Health" width="100"/>
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
 
 {% for post in site.posts %}
